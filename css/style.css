@@ -1,0 +1,38 @@
+    body {
+        background-color: #D5E1EF;
+        min-width: 400px;
+    }
+main {
+    margin:auto;
+    margin-top: 100px;
+    border: 1px solid white;
+    width: 350px;
+    height: 500px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+main picture img {
+    display: block;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+section h1, p {
+    text-align: center;
+    padding: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-indent: auto;
+}
+p {
+    color: gray;
+}
+
+    
+footer {
+    text-align: center;
+    margin-top: 100px;
+}
